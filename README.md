@@ -13,4 +13,4 @@ personal/
 
 The frontend and backend stay in separate Git repositories. This repo owns the Docker Compose configuration and deployment notes.
 
-See [DOCKER.md](DOCKER.md) for setup and commands.
+See [DOCKER.md](DOCKER.md) for local and production setup commands.
